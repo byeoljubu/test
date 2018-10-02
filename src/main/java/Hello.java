@@ -2,6 +2,6 @@ public class Hello {
 
     public static void main(String[] args){
         System.out.println("Hello World");
-    	System.out.println("Make a new branch");
+    	System.out.println("Second Test");
     }
 }
